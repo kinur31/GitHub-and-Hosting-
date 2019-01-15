@@ -1,0 +1,50 @@
+	body{
+		margin: 0px;
+		width: 100%;
+		font-family : calibri;
+		}
+	table{
+		border-collapse: collapse;
+		border:0px;
+		width: 100%;
+	}
+	.margin{
+	width: 5%;
+	}
+	.header{
+		background-color : #1675e9;
+		vertical-align: middle;
+	}
+	.almet{
+		font-family: verdana;
+		color: white;
+		font-size: 30px;
+		vertical-align: middle;
+		}
+	.body{
+		height: 800px;
+	}
+	.sidebar{
+		vertical-align: top;
+		background-color: white;
+		width: 5%;
+	}
+	.content{
+	text-align:center;
+	width: 100%;
+	background-color: LightGray;
+	}
+	.footer{
+	font-family: verdana;
+	background-color: #1675e9;
+	font-size: 12px;
+	text-align: center;
+	}
+
+.body .content h1 marquee {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #2d83eb;
+}
+.body .content h1 strong {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
